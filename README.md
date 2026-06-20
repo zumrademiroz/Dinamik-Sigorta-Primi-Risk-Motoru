@@ -17,3 +17,5 @@ Bu proje, sigorta şirketleri için müşteri verilerini analiz ederek dinamik r
 │   ├── prim_motoru.c              # Aktüeryal Hesaplama Motoru (C)
 │   └── rapor_analiz.py            # Veri Analizi ve Görselleştirme (Python)
 └── README.md                      # Proje Dokümantasyonu (Bu Dosya)
+## 📊 Raporlama Çıktıları
+![Proje Analiz Grafikleri](rapor_grafigi.png)
