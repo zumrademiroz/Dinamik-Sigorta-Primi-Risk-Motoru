@@ -4,7 +4,7 @@ import seaborn as sns
 
 # 1. C Motorunun Ürettiği Hesaplanmış Veriyi Okuyoruz
 try:
-   df= pd.read_csv(r"C:\Users\zmrde\PycharmProjects\PythonProject\.venv\data\hesaplanmis_primler.csv")
+   df = pd.read_csv("data/hesaplanmis_primler.csv")
 except FileNotFoundError:
     print("Hata: 'data/hesaplanmis_primler.csv' bulunamadı. Lütfen C kodunu çalıştırdığınızdan emin olun.")
     exit()
